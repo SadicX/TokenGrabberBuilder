@@ -1,0 +1,2192 @@
+225 INFO: PyInstaller: 4.5.1
+225 INFO: Python: 3.9.7
+615 INFO: Platform: Windows-10-10.0.19042-SP0
+617 INFO: wrote C:\Users\SadicX\Desktop\S4K BUILDER\TokenLogger.spec
+628 INFO: UPX is not available.
+628 INFO: Removing temporary files and cleaning cache in C:\Users\SadicX\AppData\Local\pyinstaller
+664 INFO: Extending PYTHONPATH with paths
+['C:\\Users\\SadicX\\Desktop\\S4K BUILDER\\result',
+ 'C:\\Users\\SadicX\\Desktop\\S4K BUILDER']
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\pkg_resources\__init__.py", line 23, in <module>
+    import zipfile
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\zipfile.py", line 7, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+1275 INFO: checking Analysis
+1276 INFO: Building Analysis because Analysis-00.toc is non existent
+1276 INFO: Initializing module dependency graph...
+1289 INFO: Caching module graph hooks...
+1299 INFO: Analyzing base_library.zip ...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+10673 INFO: Processing pre-find module path hook distutils from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path\\hook-distutils.py'.
+10674 INFO: distutils: retargeting to non-venv dir 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib'
+18384 INFO: Caching module dependency graph...
+18804 INFO: running Analysis Analysis-00.toc
+18841 INFO: Adding Microsoft.Windows.Common-Controls to dependent assemblies of final executable
+  required by C:\Users\SadicX\AppData\Local\Programs\Python\Python39\python.exe
+18935 WARNING: lib not found: api-ms-win-core-path-l1-1-0.dll dependency of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\python39.dll
+19000 INFO: Analyzing C:\Users\SadicX\Desktop\S4K BUILDER\result\TokenLogger.py
+23183 INFO: Processing pre-find module path hook site from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path\\hook-site.py'.
+23185 INFO: site: retargeting to fake-dir 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\fake-modules'
+33445 INFO: Processing pre-safe import module hook urllib3.packages.six.moves from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module\\hook-urllib3.packages.six.moves.py'.
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+46791 INFO: Processing module hooks...
+46791 INFO: Loading module hook 'hook-difflib.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+46802 INFO: Loading module hook 'hook-distutils.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+46805 INFO: Loading module hook 'hook-distutils.util.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+46811 INFO: Loading module hook 'hook-encodings.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+47343 INFO: Loading module hook 'hook-heapq.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+47349 INFO: Loading module hook 'hook-importlib_metadata.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+47357 INFO: Loading module hook 'hook-keyring.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+47605 INFO: Loading module hook 'hook-lib2to3.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+47732 INFO: Loading module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+47736 INFO: Loading module hook 'hook-pickle.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+47740 INFO: Loading module hook 'hook-PIL.Image.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+47943 INFO: Loading module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+47949 INFO: Loading module hook 'hook-PIL.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+47964 INFO: Loading module hook 'hook-pkg_resources.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+48782 WARNING: Hidden import "pkg_resources.py2_warn" not found!
+48969 WARNING: Hidden import "pkg_resources.markers" not found!
+48976 INFO: Loading module hook 'hook-PySide2.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+50295 WARNING: Cannot read QLibraryInfo output: raised Expecting value: line 1 column 1 (char 0) when decoding:
+PySide2/__init__.py: Unable to import shiboken2 from , C:\Users\SadicX\Desktop\S4K BUILDER\result, C:\Users\SadicX\Desktop\S4K BUILDER, C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages, C:\Users\SadicX\AppData\Local\Programs\Python\Python39\python39.zip, C:\Users\SadicX\AppData\Local\Programs\Python\Python39\DLLs, C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib, C:\Users\SadicX\AppData\Local\Programs\Python\Python39, C:\Users\SadicX\AppData\Roaming\Python\Python39\site-packages, C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\win32, C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\win32\lib, C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\Pythonwin
+
+False
+50295 INFO: Loading module hook 'hook-PySide2.QtCore.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+50296 INFO: Loading module hook 'hook-PySide2.QtGui.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+50299 INFO: Loading module hook 'hook-PySide2.QtNetwork.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+50303 INFO: Loading module hook 'hook-setuptools.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+51070 INFO: Loading module hook 'hook-sqlite3.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+51534 INFO: Loading module hook 'hook-sysconfig.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+51536 INFO: Loading module hook 'hook-win32ctypes.core.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\pkgutil.py", line 6, in <module>
+    import importlib.util
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+    from . import abc
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+    from typing import Protocol, runtime_checkable
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+    class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+  File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+    self._abc_registry = extra._abc_registry
+AttributeError: type object 'Callable' has no attribute '_abc_registry'
+52348 INFO: Loading module hook 'hook-xml.dom.domreg.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+52350 INFO: Loading module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+52354 INFO: Loading module hook 'hook-xml.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+52357 INFO: Loading module hook 'hook-_tkinter.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+52955 INFO: checking Tree
+52956 INFO: Building Tree because Tree-00.toc is non existent
+52956 INFO: Building Tree Tree-00.toc
+53118 INFO: checking Tree
+53118 INFO: Building Tree because Tree-01.toc is non existent
+53118 INFO: Building Tree Tree-01.toc
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.misc-1.0.0-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.product_key-0.3.2-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.registry-1.0.1-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\windows_tools.wmi_queries-0.9.7-py3.8-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.event-4.5.0-py3.6-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+Error processing line 1 of C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\zope.interface-5.4.0-py3.9-nspkg.pth:
+
+  Traceback (most recent call last):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site.py", line 169, in addpackage
+      exec(line)
+    File "<string>", line 1, in <module>
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\util.py", line 2, in <module>
+      from . import abc
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\importlib\abc.py", line 17, in <module>
+      from typing import Protocol, runtime_checkable
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1359, in <module>
+      class Callable(extra=collections_abc.Callable, metaclass=CallableMeta):
+    File "C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\typing.py", line 1007, in __new__
+      self._abc_registry = extra._abc_registry
+  AttributeError: type object 'Callable' has no attribute '_abc_registry'
+
+Remainder of file ignored
+53435 INFO: checking Tree
+53435 INFO: Building Tree because Tree-02.toc is non existent
+53435 INFO: Building Tree Tree-02.toc
+53444 INFO: Loading module hook 'hook-packaging.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+53446 INFO: Loading module hook 'hook-setuptools.msvc.py' from 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks'...
+53522 INFO: Looking for ctypes DLLs
+53734 INFO: Analyzing run-time hooks ...
+53744 INFO: Including run-time hook 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py'
+53749 INFO: Including run-time hook 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py'
+53756 INFO: Including run-time hook 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py'
+53759 INFO: Including run-time hook 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py'
+53761 INFO: Including run-time hook 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py'
+53773 INFO: Including run-time hook 'C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32api.py'
+53805 INFO: Looking for dynamic libraries
+55896 INFO: Looking for eggs
+55896 INFO: Using Python library C:\Users\SadicX\AppData\Local\Programs\Python\Python39\python39.dll
+55896 INFO: Found binding redirects: 
+[]
+55915 INFO: Warnings written to C:\Users\SadicX\Desktop\S4K BUILDER\build\TokenLogger\warn-TokenLogger.txt
+56208 INFO: Graph cross-reference written to C:\Users\SadicX\Desktop\S4K BUILDER\build\TokenLogger\xref-TokenLogger.html
+56310 INFO: checking PYZ
+56311 INFO: Building PYZ because PYZ-00.toc is non existent
+56311 INFO: Building PYZ (ZlibArchive) C:\Users\SadicX\Desktop\S4K BUILDER\build\TokenLogger\PYZ-00.pyz
+61737 INFO: Building PYZ (ZlibArchive) C:\Users\SadicX\Desktop\S4K BUILDER\build\TokenLogger\PYZ-00.pyz completed successfully.
+61859 INFO: checking PKG
+61859 INFO: Building PKG because PKG-00.toc is non existent
+61860 INFO: Building PKG (CArchive) PKG-00.pkg
+75911 INFO: Building PKG (CArchive) PKG-00.pkg completed successfully.
+75961 INFO: Bootloader C:\Users\SadicX\AppData\Local\Programs\Python\Python39\lib\site-packages\PyInstaller\bootloader\Windows-64bit\run.exe
+75961 INFO: checking EXE
+75961 INFO: Building EXE because EXE-00.toc is non existent
+75961 INFO: Building EXE from EXE-00.toc
+75973 INFO: Copying icons from ['C:\\Users\\SadicX\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico']
+76424 INFO: Writing RT_GROUP_ICON 0 resource with 104 bytes
+76424 INFO: Writing RT_ICON 1 resource with 3752 bytes
+76424 INFO: Writing RT_ICON 2 resource with 2216 bytes
+76424 INFO: Writing RT_ICON 3 resource with 1384 bytes
+76425 INFO: Writing RT_ICON 4 resource with 37019 bytes
+76425 INFO: Writing RT_ICON 5 resource with 9640 bytes
+76425 INFO: Writing RT_ICON 6 resource with 4264 bytes
+76425 INFO: Writing RT_ICON 7 resource with 1128 bytes
+76440 INFO: Updating manifest in C:\Users\SadicX\Desktop\S4K BUILDER\build\TokenLogger\run.exe.23hqeciz
+76663 INFO: Updating resource type 24 name 1 language 0
+78377 INFO: Appending archive to EXE C:\Users\SadicX\Desktop\S4K BUILDER\dist\TokenLogger.exe
+109830 INFO: Building EXE from EXE-00.toc completed successfully.
